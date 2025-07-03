@@ -1006,6 +1006,7 @@ $transition: all 0.3s ease;
       }
     }
   }
+
   .user-info {
     display: flex;
     align-items: center;
